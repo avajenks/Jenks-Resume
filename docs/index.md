@@ -2,7 +2,7 @@
 layout: cv
 title: Ava Jenks 
 ---
-# Brigham Young
+# Ava Jenks
 Student at Brigham Young University - Idaho
 
 <div id="webaddress">
